@@ -7,6 +7,7 @@
 #include "tiny_id_func.h"
 #include "min_max.h"
 #include "back_arc.h"
+#include "union_find.h"
 
 namespace flow_cutter{
 
